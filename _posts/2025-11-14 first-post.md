@@ -6,7 +6,7 @@ tags: [dfa, wicys]
 descriptions: "This is my first post"
 ---
 <p align="center"> 
-  <img src="assets/dfa.png" alt="DFA and WiCys Events are very fun" width="700">
+  <img src="/assets/dfa.png" alt="DFA and WiCys Events are very fun" width="700">
 </p> 
 
 ## Summary
